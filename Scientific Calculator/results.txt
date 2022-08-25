@@ -1,0 +1,36 @@
+Its decimal equivalent is = 10 
+
+Decimal Number : 546
+
+Its decimal equivalent is = 24 
+
+0.4226
+
+Equivalent octal value: 12
+
+Decimal Number : 17
+
+Its decimal equivalent is = 42 
+
+Its decimal equivalent is = 25 
+
+Equivalent octal value: 42
+
+Its decimal equivalent is = 10 
+
+Its decimal equivalent is = 20 
+
+45.00
+Factorial of this number is: 1
+
+4C2 is 6
+4P2 is 12
+
+root1 = -0.50+0.87i and root2 = -0.50-0.87i
+
+Square root of 1.000000 =  1.000000
+
+Its decimal equivalent is = 10 
+
+Its decimal equivalent is = 10 
+

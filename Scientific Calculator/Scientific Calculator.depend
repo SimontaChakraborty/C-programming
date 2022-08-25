@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651938572 source:g:\ewu courses file\cse\(12th sem) cse103_retake(c programming)\project\scientific calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
